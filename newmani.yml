@@ -1,0 +1,5 @@
+---
+applications:
+- name: t-go-web-app
+  disk: 256M
+  memory: 128M
